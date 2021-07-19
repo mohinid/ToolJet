@@ -1,12 +1,6 @@
 {
   "baseUrl": "http://localhost:8082",
   "env": {
-    "apiUrl": "http://localhost:3000",
-  
-  "testFiles": [
-    "auth.spec.js",
-    "empty-state-dashboard.spec.js",
-    "dashboard.spec.js"
-    ]    
+    "apiUrl": "http://localhost:3000"
   }
 }
